@@ -1,5 +1,4 @@
 import React from 'react';
-import daffodils from './daffodils.svg';
 import './App.css';
 import { Button } from 'antd';
 import { Layout, Menu, Breadcrumb, Icon } from 'antd';
